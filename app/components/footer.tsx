@@ -1,3 +1,4 @@
+"use client"
 import React, { useEffect, useState } from 'react';
 import ModalPopup from './card2';
 import { PhoneCallIcon, Mail, SquarePlay, SquareChartGantt, VideoIcon } from 'lucide-react';
