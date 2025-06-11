@@ -1,0 +1,76 @@
+{
+  "bannerImage": "/assets/sayalawn.PNG",
+  "categoryFilters": [
+    {
+      "image": "/assets/sayagreen.webp",
+      "label": "printed"
+    },
+    {
+      "image": "/assets/sayagray.webp",
+      "label": "printed"
+    },
+    {
+      "image": "/assets/sayaorange.webp",
+      "label": "printed"
+    },
+    {
+      "image": "/assets/sayapink.webp",
+      "label": "printed"
+    },
+    {
+      "image": "/assets/sayapeach.webp",
+      "label": "printed"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "image": "/assets/sayapink2.webp",
+      "hoverImage": "/assets/sayapink3.avif",
+      "name": "Classic Suit",
+      "price": "$1200"
+    },
+    {
+      "id": 2,
+      "image": "/uploads/summer-sale-_Web_1660x.webp",
+      "hoverImage": "/uploads/young-handsome-hipster-man-isolated-white-studio-background-stylish-outfit-denim-shirt-trousers-hat-sunglasses-standing-chair-cheerful-happy-smiling-positive-success-cheerful-thumb-up.jpg",
+      "name": "Evening Dress",
+      "price": "$85"
+    },
+    {
+      "id": 3,
+      "image": "/uploads/young-handsome-hipster-man-isolated-white-studio-background-stylish-outfit-denim-shirt-trousers-hat-sunglasses-standing-chair-cheerful-happy-smiling-positive-success-cheerful-thumb-up.png",
+      "hoverImage": "/uploads/portrait-young-stylish-girl-model-casual-summer-clothes-brown-hat-with-natural-makeup-glasses-isolated.jpg",
+      "name": "Evening Dress",
+      "price": "$85"
+    },
+    {
+      "id": 4,
+      "image": "/uploads/portrait-young-stylish-girl-model-casual-summer-clothes-brown-hat-with-natural-makeup-glasses-isolated.jpg",
+      "hoverImage": "/assets/summerpurple2.avif",
+      "name": "Evening Dress",
+      "price": "$85"
+    },
+    {
+      "id": 5,
+      "image": "/uploads/portrait-young-stylish-girl-model-casual-summer-clothes-brown-hat-with-natural-makeup-glasses-isolated.png",
+      "hoverImage": "/assets/summerpurple2.avif",
+      "name": "Evening Dress",
+      "price": "$85"
+    },
+    {
+      "id": 6,
+      "image": "/assets/summerpurple.webp",
+      "hoverImage": "/assets/summerpurple2.avif",
+      "name": "Evening Dress",
+      "price": "$85"
+    },
+    {
+      "id": 7,
+      "image": "/assets/summerpurple.webp",
+      "hoverImage": "/assets/summerpurple2.avif",
+      "name": "Evening Dress",
+      "price": "$85"
+    }
+  ]
+}

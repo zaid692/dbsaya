@@ -1,0 +1,20 @@
+{
+  "logo": "SAYA",
+  "email": "sale@saya.pk",
+  "phone": "+9221 3822 (7292)",
+  "sections": [
+    {
+      "title": "Help & Information",
+      "links": ["Blogs", "Track Your Order", "Shipping & Return"]
+    },
+    {
+      "title": "Customer care",
+      "links": ["Contact us", "Privacy Policy", "Terms of use"]
+    }
+  ],
+  "newsletter": {
+    "title": "Newsletter Signup",
+    "description": "Subscribe to our newsletter"
+  },
+  "copyright": "Copyright © 2024 SAYA all rights reserved. Powered by Alchemotive"
+}

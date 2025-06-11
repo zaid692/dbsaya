@@ -1,0 +1,54 @@
+{
+  "background": {
+    "id": 0,
+    "src": "/uploads/summer-sale-_Web_1660x.webp"
+  },
+  "videos": [
+    {
+      "id": 1,
+      "src": "/assets/sayavideo1.mp4"
+    },
+    {
+      "id": 2,
+      "src": "/assets/sayavideo2.mp4"
+    },
+    {
+      "id": 3,
+      "src": "/assets/sayavideo3.mp4"
+    },
+    {
+      "id": 4,
+      "src": "/assets/SAYAVIDEO4.mp4"
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "src": "/assets/SAYABG.webp"
+    },
+    {
+      "id": 2,
+      "src": "/uploads/pexels-mota-701877.jpg"
+    },
+    {
+      "id": 3,
+      "src": "/uploads/young-handsome-hipster-man-isolated-white-studio-background-stylish-outfit-denim-shirt-trousers-hat-sunglasses-standing-chair-cheerful-happy-smiling-positive-success-cheerful-thumb-up.png"
+    },
+    {
+      "id": 4,
+      "src": "/uploads/portrait-young-stylish-girl-model-casual-summer-clothes-brown-hat-with-natural-makeup-glasses-isolated.jpg"
+    },
+    {
+      "id": 5,
+      "src": "/assets/SAYABG5.webp"
+    },
+    {
+      "id": 6,
+      "src": "/uploads/young-handsome-hipster-man-isolated-white-studio-background-stylish-outfit-denim-shirt-trousers-hat-sunglasses-standing-chair-cheerful-happy-smiling-positive-success-cheerful-thumb-up.png"
+    },
+    {
+      "id": 7,
+      "src": "/uploads/portrait-young-stylish-girl-model-casual-summer-clothes-brown-hat-with-natural-makeup-glasses-isolated.jpg"
+    }
+  ]
+}

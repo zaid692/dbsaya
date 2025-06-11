@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "image": "./c1.webp",
-    "hoverImage": "./c2.webp",
+    "image": "./sayapink2.webp",
+    "hoverImage": "./sayapink3.avif",
     "name": "Classic Suit",
     "price": "$1200"
   },

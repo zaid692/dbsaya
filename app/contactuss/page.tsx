@@ -12,8 +12,8 @@ export default function Contactus() {
       
 
      <div>
-        <div className='flex p-8 flex-wrap md:justify-between pt-40  '>
-        <div className=' w-1/3 flex flex-col gap- text-[#4B4A4A]] text-[18px] font-sans '>
+        <div className='flex p-8 flex-col justify-center sm:flex-row sm:justify-between pt-40  '>
+        <div className=' w-full sm:w-1/3 flex flex-col gap- text-[#4B4A4A]] text-[18px] font-sans  '>
 
             <p className='mb-4 text-black text-sm font-semibold'>Drp us a line</p>
 
@@ -60,10 +60,10 @@ export default function Contactus() {
   
   <div>
     <h2 className=" mb-6 text-xl]">Email</h2>
-    <p className="">
+    <span className="">
      <h2 className='mb-2 text-base'> FOR WHOLESALE INQUIRY</h2>
      <h2 className='mb-14 text-base'> Email: "mailto:Wholesale@saya.pk"</h2>
-    </p>
+    </span>
     <p>
       FOR ORDER QUERIES
       

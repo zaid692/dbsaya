@@ -2,6 +2,7 @@
 import React, { useEffect, useState } from 'react';
 import Card from '../components/card';
 
+
 type Product = {
   id: number;
   image: string;       // Default image
@@ -35,7 +36,7 @@ export default function Products() {
         </select>
       </div>
 
-      <div className="flex flex-wrap justify-center gap-0">
+      <div className="flex flex-wrap justify-center ">
         {products.map((product) => (
           <Card
             key={product.id}

@@ -1,0 +1,23 @@
+{
+  "logo": "MyCompany",
+  "contact": {
+    "email": "support@mycompany.com",
+    "phone": "+1234567890"
+  },
+  "sections": [
+    {
+      "title": "Company",
+      "links": ["About Us", "Careers", "Blog"]
+    },
+    {
+      "title": "Support",
+      "links": ["Contact", "Help Center", "Privacy Policy"]
+    }
+  ],
+  "newsletter": {
+    "title": "Join Our Newsletter",
+    "description": "Subscribe to receive the latest updates and offers."
+  },
+  "paymentMethods": ["Visa", "MasterCard", "PayPal"],
+  "copyright": "© 2025 MyCompany"
+}

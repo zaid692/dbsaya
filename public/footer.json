@@ -1,0 +1,38 @@
+{
+  "logo": {
+    "src": "/assets/lg.png",
+    "alt": "Company Logo"
+  },
+  "contact": {
+    "email": "email@gmail.com",
+    "phone": "0224242"
+  },
+  "links": {
+    "customerCare": [
+      {"id": "contact", "text": "Contact"},
+      {"id": "shopping-policy", "text": "Shopping Policy"},
+      {"id": "exchange", "text": "Exchange"}
+    ],
+    "ourCompany": [
+      {"id": "profile", "text": "Company Profile"},
+      {"id": "careers", "text": "Careers"}
+    ],
+    "helpInfo": [
+      {"id": "blog", "text": "Blog"},
+      {"id": "track-order", "text": "Track Your Order"},
+      {"id": "testimonials", "text": "Hear from Our Customers"}
+    ]
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "description": "Subscribe to our newsletter for updates:",
+    "placeholder": "Email"
+  },
+  "copyright": "copyright @2024 Saya all reserved it is noted that our legacy",
+  "socialIcons": [
+    {"id": "social1", "src": "/icon1.png", "alt": "Facebook"},
+    {"id": "social2", "src": "/icon2.png", "alt": "Twitter"},
+    {"id": "social3", "src": "/icon3.png", "alt": "Instagram"},
+    {"id": "social4", "src": "/icon4.png", "alt": "LinkedIn"}
+  ]
+}
